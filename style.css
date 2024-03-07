@@ -15,14 +15,9 @@ svg.rose {
 }
 
 h1 {
- 
-  
-  
     color: #ff69b4; /* Color del texto */
     font-size: 55px;
-    margin-top: 390px;
-
-
+    /* margin-top: 390px; Удалите или измените это свойство */
 }
 
 @keyframes rose-animation {
