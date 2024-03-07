@@ -1,7 +1,7 @@
 body {
  margin:auto;
  background: rgb(234, 223, 153);
- height: 100%;
+height: 100vh;
  display: flex;
  flex-direction: column;
  justify-content: center;
@@ -17,7 +17,7 @@ svg.rose {
 h1 {
     color: #ff69b4; /* Color del texto */
     font-size: 55px;
-    /* margin-top: 390px; Удалите или измените это свойство */
+    margin-top: 390px;
 }
 
 @keyframes rose-animation {
