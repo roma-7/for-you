@@ -2,7 +2,7 @@ body {
  margin:auto;
  background: rgb(234, 223, 153);
 height: 100%;
- display: flex;
+ display: center;
  flex-direction: column;
  justify-content: center;
  align-items: center;
