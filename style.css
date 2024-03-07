@@ -1,10 +1,10 @@
 body {
- margin:center;
+ margin:auto;
  background: rgb(234, 223, 153);
  height: 100%;
  display: flex;
  flex-direction: column;
- align-content: center
+ align-content: center;
  justify-content: center;
  align-items: center;
 }
